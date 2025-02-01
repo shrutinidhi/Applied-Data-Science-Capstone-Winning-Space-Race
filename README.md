@@ -13,4 +13,4 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 6. [**Interactive Visual Analytics with Folium**](https://github.com/shrutinidhi/Applied-Data-Science-Capstone-Winning-Space-Race/blob/main/jupyter_Interactive_Visual_Analytics_with_Folium.ipynb)
 7. [**Dashboard Application (Code)**](https://github.com/shrutinidhi/Applied-Data-Science-Capstone-Winning-Space-Race/blob/main/spacex_dash_app.py)
 8. [**Predictive Analysis - Machine Learning Lab**](https://github.com/shrutinidhi/Applied-Data-Science-Capstone-Winning-Space-Race/blob/main/jupyter_Predictive_Analysis_-_Machine_Learning_Lab.ipynb)
-9. [**Final Presentation (Slide)**](https://github.com/shrutinidhi/Applied-Data-Science-Capstone-Winning-Space-Race/blob/main/Nidhi_SpaceX_project.pdf.pptx)
+9. [**Final Presentation (Slide)**]([https://github.com/shrutinidhi/Applied-Data-Science-Capstone-Winning-Space-Race/blob/main/Nidhi_SpaceX_project.pdf.pptx](https://github.com/shrutinidhi/Applied-Data-Science-Capstone-Winning-Space-Race/blob/main/Nidhi_SpaceX_project.pdf))
